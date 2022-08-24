@@ -1,7 +1,7 @@
 {
   "name": "scrimba-project1",
   "version": "0.1.0",
-  "hompage": "https://nathaniyell.github.io/scrimbaProject1",
+  "homepage": "https://nathaniyell.github.io/scrimbaProject1",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
