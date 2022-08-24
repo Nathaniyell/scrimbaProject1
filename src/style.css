@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700&family=Nunito:wght@200;300;400;500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+}
+body{
+    background-color: #23252c;
+}
+
+.img-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #1A1B21;
+    width: 300px;
+    margin: 40px auto;
+    padding: 30px 30px 0;
+    transition: all .7s ease-in-out;
+    cursor: pointer;
+    height: 100%;
+    border-radius: 5px;
+    text-align: center;
+}
+.img-div > img{
+    width: 250px;
+    border: none;
+    border-radius: 50%;
+    box-shadow: 1px 5px 80px rgba(0, 0, 0, 0.9);
+}
+.img-div > h1{
+    color: #fff;
+    width: 100%;
+    font-size: 1.68rem;
+    margin-top: 10px;
+}
+.img-div > .first-p{
+    color: #F3BF99;
+    font-size: 1.05rem;
+    font-weight: 600;
+}
+.img-div > .portfolio{
+    line-height: 2.5;
+    color: #fff;
+    font-size: 0.97rem;
+}
+.img-div > .link-div{
+    gap: 15px;
+    width: 100%;
+    padding: 15px 5px;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   margin-bottom: 20px;
+   margin-top: 25px;
+}
+.link-div > .mail{
+    width: 115px;
+    background-color: #fff;
+    padding: 10px;
+    text-decoration: none;
+    color: rgb(7, 7, 92);
+    font-size: 0.97rem;
+    border-radius: 7px;
+}
+.link-div > .linked{
+    background-color: #5093e2;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 0.97rem;
+    color: #fff;
+    border-radius: 7px;
+    width: 115px;
+}
+.interest{
+    width: 100%;
+    color: #fff;
+    text-align: left;
+    line-height: 1.5;
+}
+.interest>h1{
+    line-height: 2;
+    font-size: 24px;
+    font-weight: 700;
+}
+.interest{
+    margin-top: 10px;
+}
+.footer{
+    margin-top: 40px;
+    padding: 10px;
+    background-color: #161619;
+    width: 300px;
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    bottom: 0;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.footer > a{
+    font-size: 28px;
+    padding: 5px;
+    background-color: #918E9B;
+    color: #000;
+    border-radius: 5px;
+}
