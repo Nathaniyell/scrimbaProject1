@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.416d47ff.css",
-    "main.js": "/static/js/main.848674b7.js",
-    "static/media/nath.png": "/static/media/nath.b0ff411b72e700372e8c.png",
-    "index.html": "/index.html",
-    "main.416d47ff.css.map": "/static/css/main.416d47ff.css.map",
-    "main.848674b7.js.map": "/static/js/main.848674b7.js.map"
+    "main.css": "/scrimbaProject1/static/css/main.416d47ff.css",
+    "main.js": "/scrimbaProject1/static/js/main.c380f79a.js",
+    "static/media/nath.png": "/scrimbaProject1/static/media/nath.b0ff411b72e700372e8c.png",
+    "index.html": "/scrimbaProject1/index.html",
+    "main.416d47ff.css.map": "/scrimbaProject1/static/css/main.416d47ff.css.map",
+    "main.c380f79a.js.map": "/scrimbaProject1/static/js/main.c380f79a.js.map"
   },
   "entrypoints": [
     "static/css/main.416d47ff.css",
-    "static/js/main.848674b7.js"
+    "static/js/main.c380f79a.js"
   ]
 }
