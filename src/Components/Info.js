@@ -45,8 +45,9 @@ const Info = () => {
         <p className='first-p'>Frontend Developer</p>
         <a href='https://nathaniyell.github.io/sideHustle-Project' className='portfolio' target={'_blank'}>My Portfolio</a>
         <div className='link-div'>
-          <a href='mailto:essien.nathan@yahoo.com' className='mail' target={'_blank'}><i class="fa-solid fa-envelope"></i> &nbsp;Email</a>
-          <a href='https://linkedin.com/in/thaniyell' className='linked' target={'_blank'}><i class="fa-brands fa-linkedin"></i> &nbsp;LinkedIn</a>
+          <a href='mailto:essien.nathan@yahoo.com' className='mail' target={'_blank'}><i className="fa-solid fa-envelope"></i> &nbsp;Email</a>
+          <a href='https://linkedin.com/in/thaniyell' className='linked' target={'_blank'}><i className="fa-brands fa-linkedin"></i> &nbsp;LinkedIn</a>
+          
 
         </div>
         
