@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/scrimbaProject1/static/css/main.416d47ff.css",
-    "main.js": "/scrimbaProject1/static/js/main.58ba3c21.js",
+    "main.js": "/scrimbaProject1/static/js/main.896b35fc.js",
     "static/media/nath.png": "/scrimbaProject1/static/media/nath.b0ff411b72e700372e8c.png",
     "index.html": "/scrimbaProject1/index.html",
     "main.416d47ff.css.map": "/scrimbaProject1/static/css/main.416d47ff.css.map",
-    "main.58ba3c21.js.map": "/scrimbaProject1/static/js/main.58ba3c21.js.map"
+    "main.896b35fc.js.map": "/scrimbaProject1/static/js/main.896b35fc.js.map"
   },
   "entrypoints": [
     "static/css/main.416d47ff.css",
-    "static/js/main.58ba3c21.js"
+    "static/js/main.896b35fc.js"
   ]
 }
